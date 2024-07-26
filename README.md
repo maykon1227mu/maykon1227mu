@@ -3,7 +3,8 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon+;Estou+projetando+algo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Maykon+;Estou+projetando+algo.)](https://git.io/typing-svg) <br>
+Sou um jovem programador, estudo programação a 6 meses e estou gradualmente me apaixonando pela área, busco aprimorar meus conhecimentos e estudo para me tornar um ótimo programador. Tenho 16 anos e pretendo me tornar Full-Stack, trilho uma rotina de estudos e estou sempre produzindo novos projetos e desafios para cada vez mais aprender a como codar da forma mais limpa e eficiente possível.
 <h1>Redes Sociais</h1>
 <div align="center"> 
 <a href="https://instagram.com/maykon_myg" target="_blank">
@@ -21,15 +22,10 @@
 <br>
 <h1 color=red >Especialidades</h1>
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6"><br>
-<h2>JavaScript</h2>
+<img height="34" width="34" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img height="30" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+<img height="30" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+<img height="30" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img height="30" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6"><br>
-<h2>CSS</h2>
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd"><br>
-<h2>HTML</h2>
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc"><br>
-<h2>PHP</h2>
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6"><br>
-<h2>Estruturação de banco de dados</h2>
 </div>
